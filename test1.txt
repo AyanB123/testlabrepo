@@ -1,5 +1,10 @@
 a=b
 b=c
 c=d
+<<<<<<< HEAD
 c=i
 u=t
+=======
+d=i
+
+>>>>>>> 7a3db83cc22da1801f00a1018ca5264c0c959de8
